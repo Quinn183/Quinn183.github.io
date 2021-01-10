@@ -3,7 +3,7 @@ date: 2021-01-10
 title: Những ngày cuối tháng 8 ở Cambodia
 categories:
   - Memories
-featured_image: _screenshot.png
+featured_image: https://drive.google.com/file/d/1k__Ed5GTeO6jX9z-91pO1XiHt_NVVLd9/view?usp=sharing
 ---
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result. hjkhjkhjk
 
