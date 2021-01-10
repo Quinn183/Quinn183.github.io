@@ -1,6 +1,6 @@
-- name: Home
+- name: Blogs
   link: /
-- name: About
+- name: Porfolio
   link: /about/
 - name: Contact
   link: /contact/
